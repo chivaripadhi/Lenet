@@ -8,4 +8,5 @@
 #### About the neural network in nutshell
 > created a dataset using sklearn.datasets of 100 points and then split the dataset into train and test and 
 Take a look at datapoints and loss graph
-![](github.com/chivaripadhi/Lenet/loss.png)
+![](loss.png)
+![](datapoints.png)
