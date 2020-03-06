@@ -13,4 +13,5 @@ Binary cross entropy loss function is used
 ![](data_points.png)
 
 >Ran it for 4000 epochs  
+
 ![](loss.png)
