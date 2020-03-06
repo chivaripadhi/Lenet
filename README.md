@@ -6,8 +6,11 @@
 * Numpy
 * Sklearn
 #### About the neural network in nutshell
-> created a dataset using sklearn.datasets of 100 points and then split the dataset into train and test and   
-Take a look at datapoints and loss graph
+> 100 points divided into two classes around the centres (-0.9,0.9) and (0.9,-0.9)  
+Adam gradient descent algorithm is used    
+Binary cross entropy loss function is used
 
 ![](data_points.png)
+
+>Ran it for 4000 epochs  
 ![](loss.png)
